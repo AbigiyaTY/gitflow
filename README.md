@@ -1,1 +1,1 @@
-# Try-Gitflow
+# Resolve git conflict
